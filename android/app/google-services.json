@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542945689682",
+    "project_id": "aishpreet-f5c45",
+    "storage_bucket": "aishpreet-f5c45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542945689682:android:15097787af545fb8dc1f8b",
+        "android_client_info": {
+          "package_name": "com.example.aishpreet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAubWgchQGHo23QmquO4nqX9sV-L8xC5zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
